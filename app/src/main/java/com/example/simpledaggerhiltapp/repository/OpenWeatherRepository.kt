@@ -1,8 +1,9 @@
 package com.example.simpledaggerhiltapp.repository
 
-import OpenWeatherApi
-import com.example.simpledaggerhiltapp.Resource
+
+import com.example.simpledaggerhiltapp.utils.Resource
 import com.example.simpledaggerhiltapp.response.WeatherCityResponse
+import com.zaidzakir.mediumexample.model.api.OpenWeatherApi
 
 
 import java.lang.Exception

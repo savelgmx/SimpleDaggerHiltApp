@@ -1,6 +1,6 @@
 package com.example.simpledaggerhiltapp.repository
 
-import com.example.simpledaggerhiltapp.Resource
+import com.example.simpledaggerhiltapp.utils.Resource
 import com.example.simpledaggerhiltapp.response.WeatherCityResponse
 
 

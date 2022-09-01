@@ -1,4 +1,4 @@
-package com.example.simpledaggerhiltapp
+package com.example.simpledaggerhiltapp.utils
 
 
 

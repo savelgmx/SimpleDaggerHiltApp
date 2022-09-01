@@ -1,8 +1,8 @@
 
+package com.zaidzakir.mediumexample.model.api
 
 
-
-import com.example.simpledaggerhiltapp.AppConstants
+import com.example.simpledaggerhiltapp.utils.AppConstants
 import com.example.simpledaggerhiltapp.response.WeatherCityResponse
 
 import retrofit2.Response
