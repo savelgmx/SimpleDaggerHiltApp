@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        viewModel.getCurrentWeather()
 
         lifecycleScope.launchWhenStarted {
             viewModel.conversion.collect { value: WeatherViewModel.WeatherEvent ->
